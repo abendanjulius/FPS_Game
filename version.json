@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "version_code": 10,
+  "version": "1.0.11",
+  "version_code": 11,
   "download_url": "https://github.com/abendanjulius/FPS_Game/releases/download/v1.1.1/FPS_Game.apk",
-  "message": "multiplayer character animation"
+  "message": "Added more character options"
 }
