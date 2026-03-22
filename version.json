@@ -1,6 +1,6 @@
 {
-  "version": "2.1.2",
-  "version_code": 18,
+  "version": "2.2.0",
+  "version_code": 19,
   "download_url": "https://github.com/abendanjulius/FPS_Game/releases/download/v1.1.1/FPS_Game.apk",
-  "message": "crosshair and tracer beam fix on other players"
+  "message": "add 4th player and adjust game freeze"
 }
