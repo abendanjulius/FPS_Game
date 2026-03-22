@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "version_code": 12,
+  "version": "2.0.1",
+  "version_code": 13,
   "download_url": "https://github.com/abendanjulius/FPS_Game/releases/download/v1.1.1/FPS_Game.apk",
   "message": "Added more character options and enemy colors"
 }
