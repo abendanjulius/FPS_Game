@@ -1,6 +1,6 @@
 {
-  "version": "3.0.5",
-  "version_code": 29,
+  "version": "4.0.0",
+  "version_code": 30,
   "download_url": "https://github.com/abendanjulius/FPS_Game/releases/download/v1.1.1/FPS_Game.apk",
-  "message": "fix gun position on avatars"
+  "message": "Update enemy AI"
 }
