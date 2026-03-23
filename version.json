@@ -1,6 +1,6 @@
 {
-  "version": "4.0.0",
-  "version_code": 30,
+  "version": "4.0.1",
+  "version_code": 31,
   "download_url": "https://github.com/abendanjulius/FPS_Game/releases/download/v1.1.1/FPS_Game.apk",
   "message": "Update enemy AI"
 }
