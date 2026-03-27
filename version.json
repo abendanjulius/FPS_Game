@@ -1,6 +1,6 @@
 {
-  "version": "4.0.4",
-  "version_code": 34,
+  "version": "5.0.0",
+  "version_code": 35,
   "download_url": "https://github.com/abendanjulius/FPS_Game/releases/download/v1.1.1/FPS_Game.apk",
-  "message": "Adding 10,000 life"
+  "message": "Adding buffs and boss on wave 10"
 }
