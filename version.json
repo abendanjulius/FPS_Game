@@ -1,6 +1,6 @@
 {
-  "version": "5.0.7",
-  "version_code": 37,
+  "version": "5.0.8",
+  "version_code": 38,
   "download_url": "https://github.com/abendanjulius/FPS_Game/releases/download/v1.1.1/FPS_Game.apk",
-  "message": "Adding buffs and boss on wave 10"
+  "message": "Admin Mode"
 }
